@@ -39,10 +39,6 @@ Environment	Jupyter Notebook / Google Colab
 ├─ requirements.txt
 └─ README.md
 
-🔧 Installation & Setup
-git clone https://github.com/your-username/US-Election-Sentiment-SVM.git
-cd US-Election-Sentiment-SVM
-pip install -r requirements.txt
 
 ▶️ Usage
 jupyter notebook sentiment_analysis_US_Election.ipynb
